@@ -1,5 +1,6 @@
 # Genshin Pity Counter Script
-Python script for automate counting gacha pity in game genshin impact
+Python script for automate counting gacha pity in game genshin impact 
+using Mihoyo Gacha Info-API
 
 more details about genshin-API: https://github.com/jvergerolle
 
